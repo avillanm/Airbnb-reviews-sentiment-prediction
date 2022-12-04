@@ -44,5 +44,5 @@ Here is the resource link: [https://www.kaggle.com/datasets/andrewmvd/trip-advis
 
 Andy Villanueva - avillanuevam@uni.pe
 
-Project Link: [https://github.com/avillanm/Project1-udacity](https://github.com/avillanm/Project1-udacity)
-Project Post Medium: [https://medium.com/@avillanuevam/seattle-or-boston-what-should-we-consider-when-renting-182d29ac29e8](https://medium.com/@avillanuevam/seattle-or-boston-what-should-we-consider-when-renting-182d29ac29e8)
+Project Link: [https://github.com/avillanm/Project1-udacity](https://github.com/avillanm/Project1-udacity)    
+Post Medium: [https://medium.com/@avillanuevam/seattle-or-boston-what-should-we-consider-when-renting-182d29ac29e8](https://medium.com/@avillanuevam/seattle-or-boston-what-should-we-consider-when-renting-182d29ac29e8)
