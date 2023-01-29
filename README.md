@@ -2,8 +2,8 @@
 <img src="images/airbnblogo.png" alt="drawing" align="center" width="200"/>
 
 # Analysis of Airbnb Data: Boston and Seattle
-## 1. Project motivation
-This project is the first that I develop in a documented way under the standards of good practices, so it is very special since it encourages me to continue learning.
+## 1. Summary
+In-depth analysis of Airbnb data on room prices and availability.
 
 ## 2. Installations
 * pandas = 1.2.4 
